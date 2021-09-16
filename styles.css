@@ -170,3 +170,20 @@ header {
     height: 32px;
     margin-right: 16px;
 }
+
+.tabContentsFlexContainer {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.tabContentsFlexChild {
+    flex: 1;
+    border: solid 4px blue;
+}
+
+.tabContentsFlexChild:first-child {
+    margin-right: 20px;
+}
