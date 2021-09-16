@@ -81,6 +81,7 @@ header {
     width: 100%;
     list-style: none;
     margin: 0;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
     
@@ -161,4 +162,11 @@ header {
 
 #settingsTab{
     border-color: rgb(233, 255, 236);
+}
+
+.resetBtn {
+    margin: 0px;
+    width: 32px;
+    height: 32px;
+    margin-right: 16px;
 }
