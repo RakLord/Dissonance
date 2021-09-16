@@ -102,9 +102,7 @@ header {
     100% { background-color: rgb(255, 0, 0); }
 }
 
-#buildingsTab {
-    border-color: red;
-}
+
 
 .navTabs {
     display: inline-block;
@@ -127,4 +125,40 @@ header {
 
 .navTabs:hover {
     background-color: rgb(10, 15, 20);
+}
+
+#discoverTab {
+    border-color: rgb(214, 45, 45);
+}
+
+#fragmentTab{
+    border-color: rgb(243, 227, 6);
+}
+
+#relapseTab{
+    border-color: rgb(142, 13, 228);
+}
+
+#infiniteTab{
+    border-color: rgb(0, 255, 213);
+}
+
+#universeTab{
+    border-color: rgb(244, 20, 188);
+}
+
+#challengesTab{
+    border-color: rgb(75, 101, 208);
+}
+
+#runesTab{
+    border-color: rgb(89, 212, 151);
+}
+
+#helpTab{
+    border-color: rgb(253, 152, 160);
+}
+
+#settingsTab{
+    border-color: rgb(233, 255, 236);
 }
